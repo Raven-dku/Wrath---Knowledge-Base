@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright 2002 Sun Microsystems, Inc. All rights reserved.
+-->
+<!DOCTYPE web-app PUBLIC '-//Sun Microsystems, Inc.//DTD Web
+     Application 2.3//EN' 'http://java.sun.com/dtd/web-app_2_3.dtd'>
+<web-app>
+    <Languages>
+        <language id="0" caption="EN"></language>
+    </Languages>
+    <Categories>
+        <category id="1" caption="Rick">
+            <SubCategories>
+                <category id="1" caption="Rolled"></category>
+            </SubCategories>
+        </category>
+
+    </Categories>
+
+
+    <ArticleHeaders title="lol" articleCount="35">
+        <article id="1" language="1" text="lol" ArticleText="1" hotIssue="TRUE" updated="TRUE" keyword="lol" subjectAlt="s" caption="lol" header="lol" category="2" subject="|cFFffa500How can I talk with GM?|r |cffff000a*NEW*|r">        </article>
+        <article id="2" text="lol" ArticleText="1" hotIssue="TRUE" updated="TRUE" keyword="lol" subjectAlt="s" caption="lol" header="lol" category="2" subject="|cFFafa300Can I change my character's appearance/gender/race/class?|r |cffff000a*NEW*|r">        </article>
+        <article id="3" text="lol" ArticleText="1" hotIssue="TRUE" updated="TRUE" keyword="lol" subjectAlt="s" caption="lol" header="lol" category="2" subject="|cFFffff3aCan I play without your provided patch?|r |cffff000a*NEW*|r">        </article>
+
+    </ArticleHeaders>
+</web-app>

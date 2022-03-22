@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTPS} =on
+RewriteRule ^(insecure/.*)$ http://trololo/$1 [R=301,L]
